@@ -1,0 +1,5 @@
+author = Cheater
+version = 1.0
+displayName = Terraria Cheat Mod
+homepage = 
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
